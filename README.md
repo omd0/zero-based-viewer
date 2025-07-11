@@ -48,3 +48,9 @@ npm run vscode:prepublish
 ## License
 
 MIT 
+
+## Meme Inspiration
+
+This extension was inspired by the following meme, which humorously points out that most IDEs start line numbering at 1 instead of 0:
+
+![Meme Inspiration](main.jpeg) 
