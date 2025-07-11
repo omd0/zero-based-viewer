@@ -1,0 +1,8 @@
+This meme is a two-panel scene from the Bee Movie, with the following text:
+
+Top panel: "Your IDE starts on line 1 not line 0"
+Bottom panel: (character looking shocked)
+
+The meme humorously highlights the fact that most code editors and IDEs start line numbering at 1, not 0, which can be surprising or frustrating for programmers who are used to zero-based indexing in most programming languages.
+
+This inspired the creation of the Zero-Based Viewer VS Code extension, which displays code with zero-based line numbers in a side panel, giving developers the option to view their code in a way that matches the conventions of many programming languages. 
